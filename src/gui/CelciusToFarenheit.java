@@ -39,7 +39,7 @@ public class CelciusToFarenheit extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jPanel1.setBackground(new java.awt.Color(153, 255, 153));
+        jPanel1.setBackground(new java.awt.Color(255, 102, 102));
         jPanel1.setForeground(new java.awt.Color(255, 255, 255));
 
         celciusTextField.addActionListener(new java.awt.event.ActionListener() {
@@ -71,7 +71,7 @@ public class CelciusToFarenheit extends javax.swing.JFrame {
                 .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
 
-        jPanel2.setBackground(new java.awt.Color(255, 153, 153));
+        jPanel2.setBackground(new java.awt.Color(255, 255, 255));
 
         farenheitLabel.setBackground(new java.awt.Color(255, 153, 153));
         farenheitLabel.setText("Farenheit");
@@ -104,7 +104,7 @@ public class CelciusToFarenheit extends javax.swing.JFrame {
                 .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
 
-        jPanel3.setBackground(new java.awt.Color(255, 255, 51));
+        jPanel3.setBackground(new java.awt.Color(51, 51, 255));
 
         clearButton.setText("Clear");
         clearButton.addActionListener(new java.awt.event.ActionListener() {
